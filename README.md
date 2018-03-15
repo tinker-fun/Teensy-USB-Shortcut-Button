@@ -1,4 +1,6 @@
 # Teensy-USB-Shortcut-Button
+Benjamin Gahle
+Tinker-Fun.com
 
 Included library:
 OneButton.h
